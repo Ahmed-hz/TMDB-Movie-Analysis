@@ -21,7 +21,8 @@
 - What characteristics define the most profitable movies over time?
 - How have budgets and revenues evolved across decades?
 
----
+-### 🔗 العرض الحي | Live Demo
+**[👉 شاهد التحليل الكامل | View Full Analysis](https://ahmed-hz.github.io/TMDB-Movie-Analysis/)**--
 
 ## 📊 منهجية التحليل | Analysis Methodology
 
@@ -73,7 +74,7 @@
 
 | الملف | الوصف |
 |-------|-------|
-| `Project_Investigate_a_Dataset__TMDb_movie_data_.ipynb` | نوتبوك التحليل الكامل |
+| `TMDB_Movie_Analysis.ipynb` | نوتبوك التحليل الكامل |
 
 ---
 
