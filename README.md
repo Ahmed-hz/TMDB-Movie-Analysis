@@ -1,9 +1,16 @@
 # 🎬 تحليل بيانات أفلام TMDb | TMDb Movie Dataset Analysis
+
 ### Python · Pandas · Matplotlib · NumPy
 
 > **ع:** تحليل استكشافي شامل لأكثر من 10,000 فيلم من قاعدة بيانات TMDb، يبحث في العلاقات بين الميزانية، الإيرادات، تقييمات الجمهور، والأنواع السينمائية. أُنجز ضمن برنامج Udacity Data Analyst Nanodegree.
-
+>
 > **EN:** A comprehensive exploratory data analysis of 10,000+ movies from The Movie Database (TMDb), investigating relationships between budget, revenue, audience ratings, and genres. Completed as part of the Udacity Data Analyst Nanodegree program.
+
+---
+
+### 🔗 العرض الحي | Live Demo
+
+**[👉 شاهد التحليل الكامل | View Full Analysis](https://ahmed-hz.github.io/TMDB-Movie-Analysis/)**
 
 ---
 
@@ -21,13 +28,12 @@
 - What characteristics define the most profitable movies over time?
 - How have budgets and revenues evolved across decades?
 
--### 🔗 العرض الحي | Live Demo
-**[👉 شاهد التحليل الكامل | View Full Analysis](https://ahmed-hz.github.io/TMDB-Movie-Analysis/)**--
+---
 
 ## 📊 منهجية التحليل | Analysis Methodology
 
 | الخطوة | ع | EN |
-|--------|---|-----|
+| ------ | ---------------------------- | ----------------------------------- |
 | 1 | تنظيف البيانات وتوحيدها | Data wrangling & cleaning |
 | 2 | التحليل الاستكشافي | Exploratory Data Analysis (EDA) |
 | 3 | تحليل العلاقات بين المتغيرات | Correlation & relationship analysis |
@@ -60,10 +66,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
 | ع | EN |
-|---|-----|
+| --------------------------------- | ----------------------------------------- |
 | تنظيف وتحويل البيانات | Data cleaning & transformation |
 | دوال مرنة وقابلة لإعادة الاستخدام | Reusable visualization functions |
-| عمليات groupby وquery المتقدمة | Advanced groupby & query operations |
+| عمليات groupby و query المتقدمة | Advanced groupby & query operations |
 | تحليل متعدد الأبعاد | Multi-dimensional analysis |
 | رسوم بيانية متعددة الأنواع | Multiple chart types (scatter, bar, hist) |
 | التعامل مع القيم المفقودة | Handling missing values |
@@ -73,14 +79,15 @@
 ## 📁 محتوى الريبو | Repository Contents
 
 | الملف | الوصف |
-|-------|-------|
-| `TMDB_Movie_Analysis.ipynb` | نوتبوك التحليل الكامل |
+| ------------------------------ | ----------------------------- |
+| `TMDB_Movie_Analysis.ipynb` | نوتبوك التحليل الكامل \| Full analysis notebook |
+| `index.html` | النسخة الحية للتحليل \| Live HTML version |
 
 ---
 
 ## 🗂️ مصدر البيانات | Data Source
 
-**TMDb Movie Dataset** — متاح عبر Udacity Data Analyst Nanodegree  
+**TMDb Movie Dataset** — متاح عبر Udacity Data Analyst Nanodegree
 يحتوي على: عنوان الفيلم، الميزانية، الإيرادات، التقييم، النوع، سنة الإنتاج، وأكثر من 20 متغير.
 
 ---
@@ -96,6 +103,7 @@
 ## 👤 المؤلف | Author
 
 **أحمد الهزازي | Ahmed Alhazazi**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-alhazazi/)
+
+- 🔗 [LinkedIn](https://linkedin.com/in/ahmed-alhazazi)
 - 💻 [GitHub](https://github.com/Ahmed-hz)
 - 📧 AlhazzaziAhmed@gmail.com
